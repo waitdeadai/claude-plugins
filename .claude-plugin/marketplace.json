@@ -1,0 +1,31 @@
+{
+  "name": "waitdeadai-plugins",
+  "description": "Open-source Claude Code plugins from waitdeadai: out-of-band hook judges that suppress LLM dark-pattern defaults, paper-grade claim ledgers, deterministic verdicts, no model in the verdict path. Self-hosted distribution while the community marketplace pipeline catches up.",
+  "owner": {
+    "name": "waitdeadai",
+    "url": "https://github.com/waitdeadai"
+  },
+  "plugins": [
+    {
+      "name": "llm-dark-patterns",
+      "description": "31-hook out-of-band suite that blocks LLM dark-pattern closeouts at Claude Code Stop / SubagentStop. Deterministic verdicts, no network calls, no model in the verdict path. Apache-2.0 with a public claim ledger and a companion academic benchmark (agent-closeout-bench).",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/waitdeadai/llm-dark-patterns.git"
+      },
+      "category": "security",
+      "tags": [
+        "safety",
+        "governance",
+        "hooks",
+        "stop-hooks",
+        "ai-safety"
+      ],
+      "homepage": "https://github.com/waitdeadai/llm-dark-patterns",
+      "author": {
+        "name": "waitdeadai",
+        "url": "https://github.com/waitdeadai"
+      }
+    }
+  ]
+}
