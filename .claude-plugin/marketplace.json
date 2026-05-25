@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "llm-dark-patterns",
-      "description": "31-hook out-of-band suite that blocks LLM dark-pattern closeouts at Claude Code Stop / SubagentStop. Deterministic verdicts, no network calls, no model in the verdict path. Apache-2.0 with a public claim ledger and a companion academic benchmark (agent-closeout-bench).",
+      "description": "30-hook out-of-band suite that blocks LLM dark-pattern closeouts at Claude Code Stop / SubagentStop. Deterministic verdicts, no network calls, no model in the verdict path. Apache-2.0 with a public claim ledger and a companion academic benchmark (agent-closeout-bench).",
       "source": {
         "source": "url",
         "url": "https://github.com/waitdeadai/llm-dark-patterns.git"
