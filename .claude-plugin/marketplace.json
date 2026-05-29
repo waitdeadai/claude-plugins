@@ -26,6 +26,28 @@
         "name": "waitdeadai",
         "url": "https://github.com/waitdeadai"
       }
+    },
+    {
+      "name": "searchoclock",
+      "description": "Date-aware, inter-agent error-troubleshooting hook. On a Bash failure it injects a date-anchored deep-research protocol, dispatches a researcher subagent to recommend the most durable fix from live dated sources, and requires an independent second model (Haiku 4.5) to agree from the raw evidence before the fix is trusted. Opt-in proactive pre-flight; concurrency-safe for Opus 4.8 dynamic workflows. Apache-2.0.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/waitdeadai/searchoclock.git"
+      },
+      "category": "optimization",
+      "tags": [
+        "hooks",
+        "troubleshooting",
+        "deep-research",
+        "date-aware",
+        "double-validation",
+        "ai-safety"
+      ],
+      "homepage": "https://github.com/waitdeadai/searchoclock",
+      "author": {
+        "name": "waitdeadai",
+        "url": "https://github.com/waitdeadai"
+      }
     }
   ]
 }
