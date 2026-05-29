@@ -38,6 +38,7 @@ claude plugin update llm-dark-patterns@waitdeadai-plugins
 | Name | Description | Source |
 |---|---|---|
 | `llm-dark-patterns` | 31-hook out-of-band suite that blocks LLM dark-pattern closeouts. Apache-2.0. | https://github.com/waitdeadai/llm-dark-patterns |
+| `searchoclock` | Date-aware, inter-agent error-troubleshooting hook: on a failure, research the current durable fix from live dated sources and have an independent second model validate it. Apache-2.0. | https://github.com/waitdeadai/searchoclock |
 
 ## Adding more plugins
 
